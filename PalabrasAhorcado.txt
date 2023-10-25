@@ -1,0 +1,30 @@
+PALABRA: casa
+DEFINICION: luga de vivienda
+SINONIMO: hogar
+ANTONIMO: calle
+_______________________________________
+PALABRA: arbol
+DEFINICION: tronco
+SINONIMO: robusto
+ANTONIMO: delgado
+_______________________________________
+PALABRA: gato
+DEFINICION: manifero felino de peque¤o tama¤o
+SINONIMO: minino
+ANTONIMO: perro
+_______________________________________
+PALABRA: libro
+DEFINICION: Conjunto de hojas de papel u otro material, cosidas o pegadas por uno de sus extremos
+SINONIMO: tomo
+ANTONIMO: revista
+_______________________________________
+PALABRA: sol
+DEFINICION: Estrella luminosa alrededor de la cual gira la Tierra
+SINONIMO: astro rey
+ANTONIMO: luna
+_______________________________________
+PALABRA: computadora
+DEFINICION: Dispositivo electr¢nico capaz de recibir y procesar datos para realizar ciertas operaciones
+SINONIMO: ordenador
+ANTONIMO: abaco
+_______________________________________

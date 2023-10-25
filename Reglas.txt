@@ -1,0 +1,23 @@
+____________Reglas____________
+
+1. El juego selecciona una palabra al azar de una lista de palabras con su definicion y lista de sinonimos y antonimos.
+
+2. El jugador debe adivinar la palabra, proporcionando una letra a la vez.
+
+3. Cada vez que el jugador proporciona una letra, se mostrara la palabra parcialmente adivinada con las letras correctas reveladas y guiones bajos para las letras no adivinadas. 
+
+4. El jugador tiene un numero limitado de intentos para adivinar la palabra completa.
+
+5. Después de cada intento, se mostraran las letras disponibles que el jugador aún no ha utilizado.
+
+6. Si el jugador adivina la palabra correctamente, gana la partida. Si se quedan sin intentos, pierde.
+
+7. Se debe almacenar el progreso de los jugadores.
+
+8. Durante el juego el jugador puede solicitar pistas como la definicion, un sinonimo o un antonimo. 
+
+9. Cada comodin tendra un valor que se restara en la puntuacion del jugador.
+
+10. El usuario tendrá 6 intentos para adivinar la palabra.
+
+11. El juego constara de 5 rondas.
